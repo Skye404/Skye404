@@ -1,5 +1,4 @@
 ### Hi there 👋
-🤔 I’m looking for help with ... oh everything right now. I'm completely new to coding and web development. 
 
 🔭 I’m currently working on ... familiarizing myself with Github.
 <!--
