@@ -1,5 +1,6 @@
 ### Hi there 👋
 🤔 I’m looking for help with ... oh everything right now. I'm completely new to coding and web development. 
+
 🔭 I’m currently working on ... familiarizing myself with Github.
 <!--
 **Skye404/Skye404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
