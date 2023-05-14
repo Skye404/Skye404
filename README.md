@@ -6,7 +6,7 @@
 
 *I'm ready to learn!*
 
-####I could use help adding an image here.
+###*I could use help adding an image here.*
 
 <!--
 **Skye404/Skye404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
