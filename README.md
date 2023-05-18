@@ -6,7 +6,7 @@
 
 *I'm ready to learn!*
 
-### **I could use help adding an image here.**
+### **I could use help fixing the error that occurs whenever I try to add an image.**
 
 ![Small steps are still progress](https://unsplash.com/photos/6Lf1kzL4AfY)
 
